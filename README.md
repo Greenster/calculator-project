@@ -1,16 +1,12 @@
 #Calculator Project
 ##Calculate Numbers Projects
 
-*Calculation Project for creating automation tests using Selenium WebDriver and TestNG.*
+*Calculation Project for creating automation tests using methods TestNG.*
 
 **Java 7**
 
 * Maven
-* Log4j
 * TestNG
-* Selenium WebDriver
-* Apache POI
-* JDBC
-* MySQL
+
 
 [Lorne Green](https://github.com/Greenster)
